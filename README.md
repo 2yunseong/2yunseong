@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,8 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning ...
-- JavaScript / React 
+- JavaScript / React  
 - Swift / UIKit 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdltjd123)](https://solved.ac/dbsdltjd123)
+### 🔭 I’m currently working on ...
+- [econo-Techblog (T-econo)](https://github.com/JNU-econovation/econo-techblog)
+- [Coffee-Tech-semina](https://github.com/2yunseong/coffee-tech-seminar)
+
+### 🥇 algorithm
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdltjd123)](https://solved.ac/dbsdltjd123)
