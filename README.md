@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Swift / UIKit 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dbsdltjd123})](https://solved.ac/{dbsdltjd123})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdltjd123)](https://solved.ac/dbsdltjd123)
