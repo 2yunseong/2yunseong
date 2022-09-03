@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [Coffee-Tech-semina](https://github.com/2yunseong/coffee-tech-seminar)
 - [Open Source Contributor Academy - modern javascript tutorial translate](https://www.oss.kr/contribution_22_projects/show/2f30ec39-591e-4530-a080-f2327fdb6c95)
   - [ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)
+- 전남대학교 대학원생 핵심역량평가서비스 구축
 
 ### 🥇 Stats
 
