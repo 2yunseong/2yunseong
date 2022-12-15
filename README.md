@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/><img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 ### 🔭 I’m currently working on ...
-- [econo-Techblog (T-econo)](https://github.com/JNU-econovation/econo-techblog)
+- [econonvation-sso-page](https://github.com/2yunseong/econovation-sso-page)
 - [Coffee-Tech-semina](https://github.com/2yunseong/coffee-tech-seminar)
 - [Open Source Contributor Academy - modern javascript tutorial translate](https://www.oss.kr/contribution_22_projects/show/2f30ec39-591e-4530-a080-f2327fdb6c95)
   - [ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)
