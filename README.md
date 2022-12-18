@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 - [econonvation-sso-page](https://github.com/2yunseong/econovation-sso-page)
-- [Coffee-Tech-semina](https://github.com/2yunseong/coffee-tech-seminar)
-- [Open Source Contributor Academy - modern javascript tutorial translate](https://www.oss.kr/contribution_22_projects/show/2f30ec39-591e-4530-a080-f2327fdb6c95)
-  - [ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info)
+- [Smile Gate Blog_Project](https://github.com/2yunseong/blog_project)
 
 ### 🥇 Stats
 
