@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on ...
 - [econonvation-sso-page](https://github.com/2yunseong/econovation-sso-page)
 - [Smile Gate Blog_Project](https://github.com/2yunseong/blog_project)
+- [Camp GuGu - Discord Clone](https://github.com/2yunseong/camp2022_gugu)
 
 ### 🥇 Stats
 
