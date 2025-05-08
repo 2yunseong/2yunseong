@@ -1,6 +1,5 @@
 ## Welcome 👋
 
--->
 ### Introduction
 Hi, I'm Yunseong Lee, a passionate front-end developer who enjoys building intuitive and user-friendly web experiences. I love working with React, TypeScript, and JavaScript, and I focus on writing clean, maintainable code. I'm always eager to learn and grow through collaboration and continuous improvement.
 
