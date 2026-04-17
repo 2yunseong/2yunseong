@@ -3,9 +3,6 @@
 ### Introduction
 Hi, I'm Yunseong Lee, a passionate front-end developer who enjoys building intuitive and user-friendly web experiences. I love working with React, TypeScript, and JavaScript, and I focus on writing clean, maintainable code. I'm always eager to learn and grow through collaboration and continuous improvement.
 
-### 🥇 Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdltjd123)](https://solved.ac/dbsdltjd123)  
-
 ### Contribute
 pmndrs/zustand
 - [refactor: remove unnecessary type assertion in createJSONStorage](https://github.com/pmndrs/zustand/pull/3113)
