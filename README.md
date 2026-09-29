@@ -4,6 +4,9 @@
 Hi, I'm Yunseong Lee, a passionate front-end developer who enjoys building intuitive and user-friendly web experiences. I love working with React, TypeScript, and JavaScript, and I focus on writing clean, maintainable code. I'm always eager to learn and grow through collaboration and continuous improvement.
 
 ### Contribute
+tanstack/pacer
+- [refactor(ci): replace deprecated Vitest spy assertion](https://github.com/TanStack/pacer/pull/263) (incorporated into [#267](https://github.com/TanStack/pacer/pull/267))
+
 pmndrs/zustand
 - [refactor: remove unnecessary type assertion in createJSONStorage](https://github.com/pmndrs/zustand/pull/3113)
   
